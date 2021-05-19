@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Read and write only properties", "Read and write only properties.csproj", "{4A86510F-B2D6-4024-A864-BF440A43EA6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A86510F-B2D6-4024-A864-BF440A43EA6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A86510F-B2D6-4024-A864-BF440A43EA6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A86510F-B2D6-4024-A864-BF440A43EA6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A86510F-B2D6-4024-A864-BF440A43EA6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E045D33-7673-4378-BA80-92173A99A91A}
+	EndGlobalSection
+EndGlobal

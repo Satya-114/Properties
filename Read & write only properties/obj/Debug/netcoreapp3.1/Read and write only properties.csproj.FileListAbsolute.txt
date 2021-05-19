@@ -1,0 +1,13 @@
+C:\Users\Satya Maddila\source\repos\Read and write only properties\obj\Debug\netcoreapp3.1\Read and write only properties.csprojAssemblyReference.cache
+C:\Users\Satya Maddila\source\repos\Read and write only properties\obj\Debug\netcoreapp3.1\Read and write only properties.AssemblyInfoInputs.cache
+C:\Users\Satya Maddila\source\repos\Read and write only properties\obj\Debug\netcoreapp3.1\Read and write only properties.AssemblyInfo.cs
+C:\Users\Satya Maddila\source\repos\Read and write only properties\obj\Debug\netcoreapp3.1\Read and write only properties.csproj.CoreCompileInputs.cache
+C:\Users\Satya Maddila\source\repos\Read and write only properties\bin\Debug\netcoreapp3.1\Read and write only properties.exe
+C:\Users\Satya Maddila\source\repos\Read and write only properties\bin\Debug\netcoreapp3.1\Read and write only properties.deps.json
+C:\Users\Satya Maddila\source\repos\Read and write only properties\bin\Debug\netcoreapp3.1\Read and write only properties.runtimeconfig.json
+C:\Users\Satya Maddila\source\repos\Read and write only properties\bin\Debug\netcoreapp3.1\Read and write only properties.runtimeconfig.dev.json
+C:\Users\Satya Maddila\source\repos\Read and write only properties\bin\Debug\netcoreapp3.1\Read and write only properties.dll
+C:\Users\Satya Maddila\source\repos\Read and write only properties\bin\Debug\netcoreapp3.1\Read and write only properties.pdb
+C:\Users\Satya Maddila\source\repos\Read and write only properties\obj\Debug\netcoreapp3.1\Read and write only properties.dll
+C:\Users\Satya Maddila\source\repos\Read and write only properties\obj\Debug\netcoreapp3.1\Read and write only properties.pdb
+C:\Users\Satya Maddila\source\repos\Read and write only properties\obj\Debug\netcoreapp3.1\Read and write only properties.genruntimeconfig.cache
